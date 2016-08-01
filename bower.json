@@ -1,0 +1,17 @@
+{
+  "name": "affui",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-console": "^1.0.0",
+    "purescript-halogen": "^0.10.0",
+    "purescript-affjax": "^1.2.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^1.0.0"
+  }
+}
